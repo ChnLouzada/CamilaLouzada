@@ -5,8 +5,8 @@
 <br> 
 
 <br>
-<p>🌱 I'm currently learning **JavaScript, CSS3, HTML5, ReactJs.</p>
-<p> ⚡ Fun fact I find it hilarious that the more I study programming, the more I think I have to study programming. 🤯</p>
+<p>🌱 I'm currently learning JavaScript, CSS3, HTML5, ReactJs.</p>
+<p>⚡ Fun fact: I find it hilarious that the more I study programming, the more I think I have to study programming. 🤯</p>
 <br>
 <br>
 <br>
